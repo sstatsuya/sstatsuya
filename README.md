@@ -1,13 +1,19 @@
 <!-- 👋 Hi, I'm Luong Minh Tien -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Luong+Minh+Tien+👋;Frontend+Developer+💻;Loves+React,+UI%2FUX+and+Animation+✨" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Luong+Minh+Tien+👋;Frontend+Developer+💻;Loves+React%2C+Animation+and+UI%2FUX+✨" 
+    alt="Typing SVG" 
+  />
 </div>
 
----
-
-<!-- 🌠 Background effect -->
+<!-- 🌌 Animated starry background -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img 
+    src="https://i.pinimg.com/originals/74/0f/95/740f95b138d8204d14b88ecefae8850a.gif" 
+    alt="star background" 
+    width="100%" 
+    style="height: 25vw; object-fit: cover;" 
+  />
 </div>
 
 ---
@@ -28,30 +34,21 @@
 ---
 
 ### ✨ My Blog
-
 <div align="center">
-
-🌐 **[lmt-blogger.vercel.app](https://lmt-blogger.vercel.app/)**
-
+  <a href="https://lmt-blogger.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=6B46C1&center=true&vCenter=true&width=500&lines=Visit+my+blog+🚀;lmt-blogger.vercel.app" alt="Visit my blog" />
+      <img 
+      src="https://image.thum.io/get/width/800/https://lmt-blogger.vercel.app/" 
+      alt="lmt-blogger.vercel.app Preview" 
+      width="80%"
+      style="border-radius: 12px; box-shadow: 0 0 12px rgba(107,70,193,0.5);"
+    />
+  </a>
 </div>
 
 ---
 
-### 🌌 Fun Visuals
+### 🐍 Activity Snake
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuongMinhTien&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuongMinhTien&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="165">
-</div>
-
----
-
-<!-- ❄️ Snowfall effect -->
-<div align="center">
-  <img src="https://github.com/LuongMinhTien/LuongMinhTien/assets/your-snowflake.gif" alt="snowfall effect" width="100%" />
-</div>
-
----
-
-<div align="center">
-  <i>✨ “Building delightful UI experiences with clean, reactive code.” ✨</i>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
