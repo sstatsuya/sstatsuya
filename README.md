@@ -35,7 +35,10 @@
 ### ✨ My Blog
 <div align="center">
   <a href="https://lmt-blogger.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=6B46C1&center=true&vCenter=true&width=500&lines=Visit+my+blog+🚀;lmt-blogger.vercel.app" alt="Visit my blog" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=6B46C1&center=true&vCenter=true&width=500&lines=Visit+my+blog+🚀;lmt-blogger.vercel.app" 
+    alt="Visit my blog" 
+  />
       <img 
       src="https://image.thum.io/get/width/800/https://lmt-blogger.vercel.app/" 
       alt="lmt-blogger.vercel.app Preview" 
