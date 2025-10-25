@@ -7,6 +7,14 @@
 
 ---
 
+### 🐍 Activity Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+---
+
+
 ### 🚀 Tech Stack
 
 <div align="center">
@@ -38,9 +46,4 @@
   </a>
 </div>
 
----
 
-### 🐍 Activity Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
