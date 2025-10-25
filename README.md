@@ -5,11 +5,6 @@
 </p>
 </div>
 
-<!-- 🌌 Animated starry background -->
-<div align="center">
- ![blinked](https://github.com/user-attachments/assets/4a35dc87-fc84-4aa4-b174-c2ffeec9cb7d)
-</div>
-
 ---
 
 ### 🚀 Tech Stack
