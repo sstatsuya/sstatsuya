@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Tien Luong
 
-<!--
-**sstatsuya/sstatsuya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a web developer passionate about React, Node.js, and UI/UX design.
 
-Here are some ideas to get you started:
+🌱 Currently learning: Next.js, Prisma  
+💬 Ask me about: Frontend architecture, APIs, or design systems.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Tien's GitHub stats](https://github-readme-stats.vercel.app/api?username=tienluong&show_icons=true&theme=radical)
