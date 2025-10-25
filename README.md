@@ -1,7 +1,7 @@
 <!-- 👋 Hi, I'm Luong Minh Tien -->
 <div align="center">
  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Luong+Minh+Tien+👋;Frontend+Developer+💻;Loves+React%2C+Animation+and+UI%2FUX+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Luong+Minh+Tien+👋;Frontend+Developer+💻;Loves+React%2C+Animation+and+UI%2FUX+✨" alt="Typing SVG" />
 </p>
 </div>
 
