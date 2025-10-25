@@ -7,12 +7,7 @@
 
 <!-- 🌌 Animated starry background -->
 <div align="center">
-  <img 
-    src="https://i.pinimg.com/originals/74/0f/95/740f95b138d8204d14b88ecefae8850a.gif" 
-    alt="star background" 
-    width="100%" 
-    style="height: 25vw; object-fit: cover;" 
-  />
+ ![blinked](https://github.com/user-attachments/assets/4a35dc87-fc84-4aa4-b174-c2ffeec9cb7d)
 </div>
 
 ---
